@@ -7,6 +7,7 @@ Puden, si desean, agregar imágenes o resultados obtenidos.
 Recuerden que este readme es su puerta de entrada para su proyecto. 
 
 Un ejemplo puede ser: 
+
 # Nombre del Proyecto
 
 Breve descripción del proyecto.
@@ -15,7 +16,7 @@ Breve descripción del proyecto.
 
 1. [Nombre](#Nombre)
 2. [Descripción](#descripción)
-3. [Arquitectura](#Arquitectura)
+3. [Arquitectusra](#Arquitectura)
 4. [Proceso](#Proceso)
 5. [Funcionalidades](#Funcionalidades)
 6. [Estado del proyecto](#EstadoDelProyecto)
