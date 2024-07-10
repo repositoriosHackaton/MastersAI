@@ -331,6 +331,9 @@ __pycache__/
 # tools/**
 # !tools/packages.config
 
+db.sqlite3
+.env
+
 # Tabs Studio
 *.tss
 
@@ -393,6 +396,12 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+db.sqlite3
+.env
+.venv
+env
+
 
 # JetBrains Rider
 *.sln.iml
